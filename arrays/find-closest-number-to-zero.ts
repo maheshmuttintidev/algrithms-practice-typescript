@@ -12,6 +12,6 @@ function findClosestNumberToZero(nums: number[]): number {
     return closestNumber;
 }
 
-const t1 = findClosestNumberToZero([1, 10, -4, -2, -1])
+const findClosestNumberToZeroT1 = findClosestNumberToZero([1, 10, -4, -2, -1]);
 
-console.log(t1)
+console.log(findClosestNumberToZeroT1);
